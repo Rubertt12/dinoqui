@@ -1,15 +1,15 @@
  
     const famosos = [
-      { nome: "Tyrannosaurus Rex", imagem: "https://upload.wikimedia.org/wikipedia/commons/3/37/Tyrannosaurus_Rex_Holotype.jpg" },
-      { nome: "Triceratops", imagem: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Triceratops_mounted.jpg" },
-      { nome: "Velociraptor", imagem: "https://upload.wikimedia.org/wikipedia/commons/3/3a/Velociraptor_dinoguy2.jpg" },
-      { nome: "Brachiosaurus", imagem: "https://upload.wikimedia.org/wikipedia/commons/8/84/Brachiosaurus_20150314_125529.jpg" },
-      { nome: "Stegosaurus", imagem: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Stegosaurus_BW.jpg" },
-      { nome: "Spinosaurus", imagem: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Spinosaurus_Aegyptiacus_in_NHM.jpg" },
-      { nome: "Ankylosaurus", imagem: "https://upload.wikimedia.org/wikipedia/commons/0/08/Ankylosaurus_magniventris.jpg" },
-      { nome: "Allosaurus", imagem: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Allosaurus_mounted.jpg" },
-      { nome: "Pteranodon", imagem: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Pteranodon_NT.jpg" },
-      { nome: "Dilophosaurus", imagem: "https://upload.wikimedia.org/wikipedia/commons/5/58/Dilophosaurus_sculpture.jpg" },
+      { nome: "Tyrannosaurus Rex", imagem: "https://s2.glbimg.com/oD9XFZo12kp8v6OGIbIPemfkpGw=/e.glbimg.com/og/ed/f/original/2017/10/26/tiranossauro.jpg" },
+      { nome: "Triceratops", imagem: "https://revistaplaneta.com.br/wp-content/uploads/sites/3/2021/10/dino1.jpg" },
+      { nome: "Velociraptor", imagem: "https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2015/07/16/150716185514_zhenyuanlongbyzhaochuang1.jpg.webp" },
+      { nome: "Brachiosaurus", imagem: "https://www.atlasvirtual.com.br/jpg/braquiossauro1.jpg" },
+      { nome: "Stegosaurus", imagem: "https://cdn.britannica.com/59/242659-050-75430D8A/Outdoor-statue-of-Stegosaurus-dinosaur.jpg" },
+      { nome: "Spinosaurus", imagem: "https://as2.ftcdn.net/v2/jpg/00/23/56/11/1000_F_23561153_wDQryoYZI7LUN6vh0i0oJE87NleLZVGM.jpg" },
+      { nome: "Ankylosaurus", imagem: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGnQHlW_7ufn3D-qI_nNao6Em-fPCpFm83jw&s" },
+      { nome: "Allosaurus", imagem: "https://static.wikia.nocookie.net/jurassicworld-evolution/images/a/ab/Allosaurus_JWE2_Profile.png/revision/latest?cb=20220601223404" },
+      { nome: "Pteranodon", imagem: "https://media.istockphoto.com/id/1004753634/pt/foto/pteranodon-scene-3d-illustration.jpg?s=612x612&w=0&k=20&c=ducafmLu19QOb1Xaao0TeKMWA7wFSKsZKYdxtnczLmA=" },
+      { nome: "Dilophosaurus", imagem: "https://static.wikia.nocookie.net/jurassicpark/images/e/ef/Dilophosaurus_Render.png/revision/latest?cb=20240818222202" },
     ];
 
     const TOTAL_PERGUNTAS = 10;
